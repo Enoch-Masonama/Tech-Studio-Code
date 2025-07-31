@@ -1,0 +1,179 @@
+.tete
+{
+    color:white; background-image: url("Images/robot.png");
+    background-size: cover; background-position: center; 
+    background-repeat: no-repeat; height: 100%;
+}
+nav 
+{ 
+    display: flex; 
+    justify-content: center; 
+    padding-top: 30px;
+}
+nav a 
+{ 
+    padding: 10px; 
+    text-decoration: none; 
+    color:white; font-size: 20px;
+}
+a 
+{ 
+    text-decoration: none; 
+    color:white; font-size: 20px;
+}
+nav a:hover
+{
+    color : #4a2aa8; 
+    font-size: 23px;
+}
+.choix
+{
+    margin-left: 900px;
+}
+.choix h1
+{
+    font-size: 30px; 
+    font-family: Verdana, 
+    Geneva, Tahoma, sans-serif;
+}
+.choix p
+{
+    margin-top: -20px;
+}
+.raison1 h2
+{
+    font-size: 30px; font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    color:#ff0077}
+.raison1
+{
+    border: 2px solid white; 
+    border-radius: 30px; padding: 10px; 
+    background: linear-gradient(135deg, #050018 0%, #050018 60%, #f020f8 100%); width: 288px; 
+    margin-left: 200px; margin-top: -100px;
+}
+.raison2 h2
+{
+    font-size: 30px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    color:#ff0077
+}
+.raison2
+{
+    border: 2px solid white; 
+    border-radius: 30px; 
+    padding: 10px; 
+    background: linear-gradient(135deg, #050018 0%, #050018 60%, #f020f8 100%); 
+    width: 288px; 
+    margin-left: 100px;
+}
+.raison3 h2
+{
+    font-size: 30px; font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    color:#ff0077
+}
+.raison3
+{
+    border: 2px solid white; 
+    border-radius: 30px; 
+    padding: 10px; 
+    background: linear-gradient(135deg, #050018 0%, #050018 60%, #f020f8 100%); 
+    width: 288px;     
+    margin-left: 900px; margin-top: -300px;
+}
+.raison1:hover
+{
+    animation : pulse 2s ease-in-out infinite
+}
+@keyframes pulse 
+{
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+.raison2:hover
+{
+    animation : pulse 2s ease-in-out infinite
+} 
+@keyframes pulse 
+{
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+.raison3:hover
+{
+    animation : pulse 2s ease-in-out infinite
+}
+@keyframes pulse 
+{
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+.main img
+{
+    transform :scale(-1); 
+    padding-left: 400px; 
+    width: 35%;
+}
+.domaine
+{
+    background-color:#050018 ; 
+    color: white;
+}
+.domaine  h1
+{ 
+    text-align: center; 
+    margin-top: -200px; 
+    font-family: tahoma; 
+    font-size: 45px; 
+    padding: 20px;
+}
+.liste
+{
+    display: flex; 
+    justify-content: space-around;
+}
+.liste img
+{
+    width: 500px;
+    border:2px solid white; 
+    border-radius:500px;
+}
+.texte_domaine
+{
+    width: 40%; margin-top: 50px; 
+    transition: transform 0.3s ease; 
+    display: bloc;
+}
+.texte_domaine:hover
+{
+    transform: scale(1.2)
+}
+.photo_domaine
+{
+    margin-top: 50px;
+}
+.liste h1
+{
+    font-size: 30px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

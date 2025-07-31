@@ -1,0 +1,18 @@
+
+.tete{background-image: url("file2.png"); background-size: cover; background-position: center; background-repeat: no-repeat; height: 100vh; color : white}
+nav { display: flex; justify-content: center; padding-top: 30px;}
+nav a { padding: 10px; text-decoration: none; color:white; font-size: 20px;}
+a { text-decoration: none; color:white; font-size: 20px;}
+nav a:hover{color : #4a2aa8; font-size: 23px;}
+.faire{width: 40%; margin-left: 5%; margin-top: 250px;}
+.faire p:nth-of-type(2){border: 5px solid white; border-radius: 50px;background-color:white ;width: 20%;}
+.faire a{color:black; padding-left:10px; font-family: berlin sans FB;}
+.faire h1{font-size: 30px; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.faire{transition: transform 0.3s ease; display: bloc;}
+.faire:hover{transform: scale(1.2)}
+.boite{border: 2px solid white; width: 500px; margin: auto;margin-top: 50px; padding: 30px; border-radius: 50px;
+background: linear-gradient(135deg, #050018 0%, #050018 60%, #f020f8 100%);}
+.boite h1{color: white;font-family: Verdana, Geneva, Tahoma, sans-serif; text-align: center;}
+.cartes{display: flex; overflow-x: auto; gap: 16px; padding:10px; border:1px solid #ccc}
+.carteForme{min-width: flex; flex-shrink: 0; border: 2px solid #333; border-radius: 8px; padding : 20px; background-color: #f9f9f9;
+text-align: center ;}

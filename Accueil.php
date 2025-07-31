@@ -1,0 +1,72 @@
+<html>
+  <head> 
+    <meta charset="utf-8">
+      <title>Tech Studio Code</title>
+      <meta name="viewport" content="width=device-widht, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <link rel="stylesheet" href="accueil.css?v=1.0.4">
+  </head>
+  <body>
+    <section class="titre">
+      <nav>
+        <a href="Accueil.php">Accueil</a>
+        <a href="Domaines.php">Domaines</a>
+      </nav>
+      <h1 class="animé">Tech Studio Code</h1>
+      <p>L'avenir technologique entre le mains de la jeunesse</p>
+      <p><a href="Domaines.php">Découvrir</a></p>
+    </section>
+    <section class="presentation">
+      <div class="logo">
+       <img src="Images/TSC.jpg" width="50%">
+      </div>
+    </section>
+    <section class="texte">
+      <div class="info">
+        <h1>Développement de solutions technologiques</h1>
+        <p>Nous concevons des applications, plateformes et systèmes intelligents
+         pour répondre aux besoins locaux, en mobilisant la programmation,
+          l'intelligence artificielle et les bases de données.
+        </p>
+      </div>
+      <div class="info">
+        <h1>Services technologique aux entreprises et aux privés</h1>
+        <p>Nous accompagnons les entreprises et les personnes privées dans leur transformation digitale, à travers la création de logiciels sur mesure,
+          la cybersécurité, le design graphique, le réseau et plus encore.
+        </p>
+      </div>
+      <div class="info">
+        <h1>Laboratoire d'innovation</h1>
+        <p>Nous expérimentons, testons et construisons des idées innovantes, en transformant nos compétence en véritables solutions locales, durables
+          et impectantes.
+        </p>
+      </div>
+    </section>
+    <section class="temoin">
+      <div class="comment">
+        <img src="Images/perso1.webp" widht=30px><br>
+        <h1>Nadine K.</h1> 
+        <p>Etudiante en cybersécurité<br><br>
+        ► Ce que j'aime avec <b>Tech Studio Code</b> est qu'on ne se contente pas de rêvé, on construit. <br>Chaque problème qu'on
+        nous confie devient un défi qu'on relève avec passion. Si vous avez un souci technique, une idée à développer ou un projet
+        numérique, venez nous en parlez, on est là pour créer des solutions qui ont du sens.◄</p><br>
+      </div>
+      <div class="comment">
+        <img src="Images/perso2.jpg" classe="img" widht=30px><br>
+        <h1>Arnold M.</h1> 
+        <p>Développeur full stack<br><br>
+        ► Quand mes amis ont des bugs, des idées floues ou des questions sur leurs projets tech, je leur dis toujours : Parlez-en 
+        à <b>TSC</b>.<br> On est une équipe jeune, déterminée et surtut capable. Peu importe le défi : site web, Application Mobile,
+        ... Testez-nous vous verrez la différence.◄</p><br>
+      </div>
+      <div class="comment">
+        <img src="Images/perso5.jpg" classe="img" widht=30px><br>
+        <h1>Prisca T.</h1> 
+        <p>Designer graphique<br><br>
+        ► Je travaille déjà au sein du studio, et je peux vou assurez d'une chose : ici, on ne laisse jamais un problème technologique sans
+        solution.<br> Que vous soyez une entreprise ou un , venez nous exposer votre besoin, on vous écoute, on vous conseille, on développe.<br>
+      <b>Tech Studio Code</b>, c'est une famille de bâtisseur numérique.</b></p>
+      </div>
+    </section>
+  </body>
+</html>

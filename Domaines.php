@@ -1,0 +1,131 @@
+<html>
+  <head> 
+    <meta charset="utf-8">
+      <title>Tech Studio Code</title>
+      <meta name="viewport" content="width=device-widht, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <link rel="stylesheet" href="domaine.css?v=1.0.9">
+
+  </head>
+    <body>
+        <section class="tete">
+            <nav>
+                <a href="Accueil.php">Accueil</a>
+                <a href="Domaines.php">Domaines</a>
+            </nav>
+            <div class="choix">
+                <h1>Pourquoi<br> avons nous choisis<br> ces 6 domaines ?</h1>
+                <p>Que vous allez bientôt découvrir...</p>
+            </div>
+            <div class="raison1">    
+                <h2>01</h2>
+                <p>Parce qu'ils permettent de créer des technologie intelligentes capables d'analyser, apprendre et 
+                    résoudre des problèmes complexes qui touche notre société.
+                </p>
+            </div>
+            <br><br><br>
+            <div class="raison2">   
+                <h2>02</h2>
+                <p>Parce qu'ils assurent une gestion efficace, organisée et sécurisée de l'information, qui est aujourd'hui le coeur de toute activité numérique.
+                </p>
+            </div>
+            <div class="raison3">   
+                <h2>03</h2>
+                <p>Parce qu'ils rendent possible la création de visuels professionnels qui donnent de la valeur, de la cohérence et de l'identité à chaque projet.
+                </p>
+            </div>
+        </section>
+        <section class="haut">
+            <div class="main">
+                <img src="diverge.png">
+            </div>
+            <div class="domaine">
+                <h1>VOICI NOS 6 DOMAINES <br>D'APPLICATIONS</h1>
+            </div>
+        </section>
+        <section class="liste">
+            <div class="photo_domaine">
+                <img src="Images/AI1.jpeg" widht="50%">
+            </div>
+            <div class="texte_domaine">
+                <h1>Intelligence Artificielle (AI)</h1>
+                <p>L'intelligence artificielle l'un des leviers les plus puissants de la révolution technologiques actuelles.
+                    Au sein de Tech Studio Code, nous explorons la capacité des machines à apprendre, raisonner et prendre des décision.
+                    Nos membres peuvent développer des algorithmes capables d'analyser des données, automatiser des processus, 
+                    interpréter des images ou des voix, et meme prédire des comportements.
+                    L'IA devient ainsi un outil stratégiaue au service du développement, capable de transformer la santé, l'éducation; l'agriculture
+                    et bien d'autres secteurs clés de notre sociéte.
+                </p>
+            </div>
+        </section>
+        <section class="liste">
+            <div class="texte_domaine">
+                <h1>Programmation</h1>
+                <p>La programmation est bien plus q'un simple langage informatique, c'est une comptétence universelle, une clé d'autonomie et de création.
+                    Nous donnons la possibilité à la jeunesse de concevoir des applications web, mobiles et logicielles adaptées aux réalités locales.
+                    A travers des langages modernes et des méthodologie agiles, nous transformons des idées en solutions concrètes, utiles et évolutives.
+                    Programmer, c'est construire, innover, mais aussi rever d'un avenir ou la technologie est pensées par nous et pour vous.
+                </p>
+            </div>
+            <div class="photo_domaine">
+                <img src="Images/programme.Jpeg">
+            </div>
+        </section>
+        <section class="liste">
+            <div class="photo_domaine">
+                <img src="Images/data.Jpeg" widht="50%">
+            </div>
+            <div class="texte_domaine">
+                <h1>Base de données</h1>
+                <p>L'informatique bien gérée devient un puissant outil de décision.
+                    Dans ce domaine, nous apprenons à organiser, manipuler et sécuriser les données, qu'elles soient personnelles, commerciaux ou institutionnelles.
+                    De la conception de bases relationnelles à l'analyse avancée de données, nous développons des systèmes fiables qui répondent aux exigences de performances,
+                    de confidentialité et de tracabilité.
+                    Un bon usage des bases de données permet de transformer le chaos de l'informatique en un moteur d'éfficacité.
+                </p>
+            </div>
+        </section>
+        <section class="liste">
+            <div class="texte_domaine">
+                <h1>Réseau</h1>
+                <p>A l'ère du numérique, la connectivité est un besoin fondamentale.
+                    Nous développons des compétences solides dans la conception, l'installation, la configuration et la sécurisation des réseau informatique.
+                    Cela va du simple partage local à grande échelle.
+                    En assurant la fluidité des communications, nous contribuons à construire une société plus connectée, plus rapide et plus fiable.
+
+                </p>
+            </div>
+            <div class="photo_domaine">
+                <img src="Images/reseau.Jpg">
+            </div>
+        </section>
+        <section class="liste">
+            <div class="photo_domaine">
+                <img src="Images/design.Jpg" widht="50%">
+            </div>
+            <div class="texte_domaine">
+                <h1>Design Graphique</h1>
+                <p>Le design graphique est l'ame visuelle de la technologie.
+                    Nous formons des créations capables de traduire une idée, une identité ou une expérience en images percutants. Entremaitrise des outils
+                    professionnels et sens artistiques, nous donnos vie à des interfaces, des logos, des supports de communication et des identités visuelles
+                    aui parlent à l'utilisateur avant meme qu'il ne lise un mot.
+                    Un bon design n'est pas un luxe, c'est une nécessité stratégique.
+                </p>
+            </div>
+        </section>
+        <section class="liste">
+            <div class="texte_domaine">
+                <h1>Cybersécurité</h1>
+                <p>Le numérique ouvre des portes, mais expose aussi à des menaces.
+                    Dans ce domaine, nous apprenons à anticiper les attaques, à protéger les données sensibles, à auditer les systèmes et à mettre
+                    en place des politiques de sécurité solides.
+                    Nous formons une génération consciente des risques et capable de batir un espace numérique sur et digne de confiance pour les particuliers,
+                    les entreprises et les instituts.
+                </p>
+            </div>
+            <div class="Images/photo_domaine">
+                <img src="Images/secure (2).Jpeg">
+            </div>
+        </section>
+    </body>
+</head>
